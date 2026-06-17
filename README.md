@@ -1,6 +1,6 @@
 # Midas Store Sales Analysis (2022)
 
-![Midas Store Dashboard](images/Screenshot%202026-05-31%20234623.png)
+![Midas Store Dashboard](/Screenshot%202026-05-31%20234623.png)
 
 ## What is this project?
 I built this interactive Excel dashboard to analyze a year's worth of sales and order data for Midas Store. The goal was simple: take a messy, raw dataset of e-commerce transactions and turn it into clear, actionable business insights that show exactly who is buying, where sales are coming from, and how the business is growing.
